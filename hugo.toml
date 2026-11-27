@@ -78,9 +78,9 @@ theme = "terminal"
 
     [languages.en.params]
       subtitle = "A simple site based on Hugo."
-      owner = ""
+      owner = "RevengeFir"
       keywords = ""
-      copyright = ""
+      copyright = "RevengeFir"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
