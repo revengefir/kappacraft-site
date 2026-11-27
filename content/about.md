@@ -14,9 +14,18 @@ Also, I have my own homelab that I've built for running my own minecraft server 
 
 **Here is my homelab's specs**:
 
-- CPU: AMD Ryzen 7 3700x (8 core/16 threads)
-- RAM: 64Gb DDR4 2666Mhz
-- Storage: SSD: 500Gb NVMe, HDD: 2x 1Tb SATA.
-- OS: Ubuntu Server 26.04 LTS.
+- **Main server**:
+    - CPU: AMD Ryzen 7 3700x (8 core/16 threads)
+    - RAM: 64Gb DDR4 2666Mhz
+    - Storage: SSD: 500Gb NVMe, HDD: 2x 1Tb SATA.
+    - OS: Ubuntu Server 26.04 LTS.
 
-Recently, I bought Raspberry Pi 4 for my school project. I'm going to run Home Assistant for managing my handmade sensors. 
+- **"Support" server** (Home Assistant etc.):
+    - Model: Raspberry Pi 4 Model B
+    - RAM: 4Gb
+    - Storage: 128Gb 
+    - OS: Debian 13 Trixie
+
+# My interests
+
+TBA
