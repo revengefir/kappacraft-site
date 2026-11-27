@@ -1,4 +1,4 @@
-baseurl = "http://revengefir.github.io/kappacraft-site/"
+baseurl = "https://revengefir.github.io/kappacraft-site/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "KappaCraft"
-        logoHomeLink = "http://revengefir.github.io/kappacraft-site/"
+        logoHomeLink = "https://revengefir.github.io/kappacraft-site/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
