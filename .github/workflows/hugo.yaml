@@ -118,7 +118,7 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "https://revengefir.github.io/<repo-name>/" \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
 
       - name: Cache save
