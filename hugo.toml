@@ -61,6 +61,7 @@ pagination.pagerSize = 5
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
+  
 
 
 [params.twitter]
@@ -92,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "KappaCraft"
-        logoHomeLink = "/"
+        logoHomeLink = "http://revengefir.github.io/kappacraft-site"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
