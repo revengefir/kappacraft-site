@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "KappaCraft"
-        logoHomeLink = "http://revengefir.github.io/kappacraft-site"
+        logoHomeLink = "http://revengefir.github.io/kappacraft-site/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
