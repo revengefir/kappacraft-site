@@ -100,3 +100,6 @@ theme = "terminal"
           identifier = "about"
           name = "About"
           url = "/about"
+[cache]
+  [caches.images]
+    dir = ':cacheDir/images'
