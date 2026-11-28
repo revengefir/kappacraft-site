@@ -77,7 +77,7 @@ pagination.pagerSize = 5
     title = "KappaCraft"
 
     [languages.en.params]
-      subtitle = "A simple site based on Hugo."
+      subtitle = "RevengeFir's blog"
       owner = "RevengeFir"
       keywords = ""
       copyright = "RevengeFir"
